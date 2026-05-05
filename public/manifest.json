@@ -1,0 +1,21 @@
+{
+  "short_name": "Sottrazioni",
+  "name": "Sottrazioni Magiche 🚀",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/math/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/math/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "theme_color": "#f8fafc",
+  "description": "App per imparare le sottrazioni magiche!"
+}
